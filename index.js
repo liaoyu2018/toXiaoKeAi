@@ -3,7 +3,7 @@
  */
  function typewrite()
  {
-     let str="手我是有的，就是不知如何碰你。<<";//利用<作为换行符 -作为空格
+     let str="每一段旋律，是我为你写下的每一句情诗<<";//利用<作为换行符 -作为空格
      let strp="";
      let i=0;
      function print1()
